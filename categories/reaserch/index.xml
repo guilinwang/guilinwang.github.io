@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>论文研究 - 分类 - WANG DW</title>
+        <link>http://example.org/categories/reaserch/</link>
+        <description>论文研究 - 分类 - WANG DW</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Feb 2022 12:25:59 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/reaserch/" rel="self" type="application/rss+xml" /><item>
+    <title>BM3D算法研究(一)</title>
+    <link>http://example.org/posts/reaserch/bm3d/</link>
+    <pubDate>Tue, 01 Feb 2022 12:25:59 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/reaserch/bm3d/</guid>
+    <description><![CDATA[<p>三维块匹配算法（英语：Block Matching 3D，缩写：BM3D）是一个效果比较好的图像去噪算法。</p>]]></description>
+</item></channel>
+</rss>

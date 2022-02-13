@@ -3,14 +3,44 @@
         <title>WANG DW</title>
         <link>http://example.org/</link>
         <description>关于 LoveIt 主题</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Feb 2022 12:25:59 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 12 Feb 2022 21:33:59 &#43;0800</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>图像去噪</title>
-    <link>http://example.org/posts/algo-denoisy-3d/</link>
+    <title>CodeReview</title>
+    <link>http://example.org/posts/knowledge/codereview/</link>
+    <pubDate>Sat, 12 Feb 2022 21:33:59 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/knowledge/codereview/</guid>
+    <description><![CDATA[<p>本篇主题为项目管理中的一个重要内容——Code Review，主要记录本人在工作及工作之余自主学习的相关内容。</p>]]></description>
+</item><item>
+    <title>BM3D算法研究(一)</title>
+    <link>http://example.org/posts/reaserch/bm3d/</link>
     <pubDate>Tue, 01 Feb 2022 12:25:59 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>http://example.org/posts/algo-denoisy-3d/</guid>
+    <guid>http://example.org/posts/reaserch/bm3d/</guid>
     <description><![CDATA[<p>三维块匹配算法（英语：Block Matching 3D，缩写：BM3D）是一个效果比较好的图像去噪算法。</p>]]></description>
+</item><item>
+    <title>OAK-D-Lite的使用</title>
+    <link>http://example.org/posts/project/</link>
+    <pubDate>Tue, 01 Feb 2022 12:25:59 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/project/</guid>
+    <description><![CDATA[<p>OAK-D-Lite是一款嵌入式3D人工智能平台</p>]]></description>
+</item><item>
+    <title>倦怠社会</title>
+    <link>http://example.org/posts/life/reading/%E5%80%A6%E6%80%A0%E7%A4%BE%E4%BC%9A/</link>
+    <pubDate>Tue, 01 Feb 2022 12:25:59 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/life/reading/%E5%80%A6%E6%80%A0%E7%A4%BE%E4%BC%9A/</guid>
+    <description><![CDATA[<h3 id="简介">简介</h3>
+<p>作者：[德] 韩炳哲<br>
+倦怠社会，一本从免疫学角度对社会进行分析的社科类书籍，而倦怠社会则是一种由外在排他的免疫式否定社会发展而来的相反的内在饱和式的新型社会。</p>]]></description>
+</item><item>
+    <title>各种与技术工具相关的博客分类</title>
+    <link>http://example.org/posts/technique/</link>
+    <pubDate>Tue, 01 Feb 2022 12:25:59 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/technique/</guid>
+    <description><![CDATA[<p>当前啥也没有</p>]]></description>
 </item></channel>
 </rss>

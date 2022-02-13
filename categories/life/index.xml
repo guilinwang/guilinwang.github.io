@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>生活 - 分类 - WANG DW</title>
+        <link>http://example.org/categories/life/</link>
+        <description>生活 - 分类 - WANG DW</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Feb 2022 12:25:59 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/life/" rel="self" type="application/rss+xml" /><item>
+    <title>倦怠社会</title>
+    <link>http://example.org/posts/life/reading/%E5%80%A6%E6%80%A0%E7%A4%BE%E4%BC%9A/</link>
+    <pubDate>Tue, 01 Feb 2022 12:25:59 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/life/reading/%E5%80%A6%E6%80%A0%E7%A4%BE%E4%BC%9A/</guid>
+    <description><![CDATA[<h3 id="简介">简介</h3>
+<p>作者：[德] 韩炳哲<br>
+倦怠社会，一本从免疫学角度对社会进行分析的社科类书籍，而倦怠社会则是一种由外在排他的免疫式否定社会发展而来的相反的内在饱和式的新型社会。</p>]]></description>
+</item></channel>
+</rss>

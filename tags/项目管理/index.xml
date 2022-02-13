@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>项目管理 - 标签 - WANG DW</title>
+        <link>http://example.org/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</link>
+        <description>项目管理 - 标签 - WANG DW</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 12 Feb 2022 21:33:59 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/" rel="self" type="application/rss+xml" /><item>
+    <title>CodeReview</title>
+    <link>http://example.org/posts/knowledge/codereview/</link>
+    <pubDate>Sat, 12 Feb 2022 21:33:59 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/knowledge/codereview/</guid>
+    <description><![CDATA[<p>本篇主题为项目管理中的一个重要内容——Code Review，主要记录本人在工作及工作之余自主学习的相关内容。</p>]]></description>
+</item></channel>
+</rss>

@@ -2,11 +2,23 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://example.org/categories/</loc><lastmod>2022-02-12T21:33:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/knowledge/codereview/</loc><lastmod>2022-02-12T21:33:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2022-02-12T21:33:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/tags/</loc><lastmod>2022-02-12T21:33:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/</loc><lastmod>2022-02-12T21:33:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/categories/knowledge/</loc><lastmod>2022-02-12T21:33:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</loc><lastmod>2022-02-12T21:33:59&#43;08:00</lastmod></url><url>
             <loc>http://example.org/about/</loc><lastmod>2022-02-01T19:14:03&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/categories/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/reaserch/bm3d/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
             <loc>http://example.org/tags/de-noisy/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/algo-denoisy-3d/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/categories/algorithm/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url></urlset>
+            <loc>http://example.org/tags/oak-d-lite/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/project/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/life/reading/%E5%80%A6%E6%80%A0%E7%A4%BE%E4%BC%9A/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/technique/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/categories/technique/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/categories/life/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/tags/%E7%A4%BE%E7%A7%91/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/categories/reaserch/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/tags/%E9%98%85%E8%AF%BB/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/categories/project/</loc><lastmod>2022-02-01T12:25:59&#43;08:00</lastmod></url></urlset>
